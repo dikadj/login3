@@ -22,6 +22,7 @@ module.exports = function(options) {
       }),
       new HtmlWebpackPlugin({
         template: 'index.html', // Move the index.html file...
+        filename: "index.html",
         minify: { // Minifying it while it is parsed using the following, self–explanatory options
           removeComments: true,
           collapseWhitespace: true,
