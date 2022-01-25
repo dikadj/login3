@@ -11,7 +11,9 @@ Hasilnya bisa dilihat di link di bawah ini:
 
 atau via local:
 
-`$ git clone https://github.com/dikadj/login3.git`
-`$ cd login3`
-`$ yarn install `
-`$ yarn start`
+```sh
+$ git clone https://github.com/dikadj/login3.git
+$ cd login3
+$ yarn install
+$ yarn start
+```
